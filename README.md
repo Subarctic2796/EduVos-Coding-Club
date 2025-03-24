@@ -1,5 +1,6 @@
 # EduVos Coding Club
 This is my repo for all of the challenges that I do for EduVos's coding club.
+Link to the github [repo](https://github.com/Subarctic2796/EduVos-Coding-Club)
 
 ## Setup
 First clone the repo, and go into the directory.

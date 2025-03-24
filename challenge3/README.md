@@ -1,5 +1,6 @@
 # Challenge 3
 
+Link to the github [repo](https://github.com/Subarctic2796/EduVos-Coding-Club)
 I did only No experience for frontend and Beginner for backend
 
 # Challenge Description
